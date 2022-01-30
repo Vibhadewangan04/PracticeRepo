@@ -1,0 +1,615 @@
+
+demo api for practice- https://reqres.in/
+
+
+https://www.edureka.co/community/52182/what-differences-between-pagefactory-selenium-webdriver
+
+
+putty - commands
+
+in mtputty to view - vi  file name
+to come out / exit from vi editor / vi-mode
+ to insert - I
+ to save chnages without quit-   Esc : w! then  enter
+ to save chnages with quit   -   Esc : x! then  enter
+without save changes, quit   -   Esc : q! then	enter
+
+
+to search any text or string in logs
+vi  log name  eg:  vi  zfjcloudraw.log
+then forward slash / paste string/text  eg:   /successfully
+
+vi vortex_2020-09-11.0.log
+
+
+or  
+If 2 patterns: tail -f vortex_2020-08-06.0.log | grep -e "pattern1" -e "patter2"
+If 1 patterns: tail -f vortex_2020-08-06.0.log | grep "pattern1"
+
+tail -f vortex_2020-08-06.0.log | grep -e "successfully" -e "shruthi"
+
+tail -f vortex_2020-09-09.1.log | grep -e "ww"
+
+
+to check path dir in which path we are,  use "pwd" command  4th line
+[root@riak01 zephyr]# cd /home/nfsuser/efs/
+[root@riak01 efs]# ls -ltr
+total 0
+[root@riak01 efs]# pwd
+/home/nfsuser/efs
+[root@riak01 efs]#
+
+
+
+
+Java---------
+https://www.lambdatest.com/blog/desired-capabilities-in-selenium-testing/
+
+
+https://www.guru99.com/ssl-certificate-error-handling-selenium.html
+
+DesiredCapabilities handlSSLErr = DesiredCapabilities.chrome ()       
+handlSSLErr.setCapability (CapabilityType.ACCEPT_SSL_CERTS, true)
+WebDriver driver = new ChromeDriver (handlSSLErr);
+
+
+
+API http requests status code: https://www.restapitutorial.com/httpstatuscodes.html
+
+
+cucumber------------------
+
+automation ui in cucumber bdd
+
+https://naveenautomationlabs.com/usage-of-cucumber-options-which-we-use-in-testrunner-file/
+
+https://zfj-33-bench1.atlassian.net/browse/AP-438-  bdd sceanrio is there
+
+ https://www.guru99.com/introduction-to-cucumber.html- for cucumber
+n cucumber we use test runner
+for priority in testng --in cucm we use tags n tags name will be there in feature file
+
+given(input) when(condition) then(Result)
+any no. of tag in 1 feature file
+
+
+
+
+Examples: in cucumber     
+
+We can perform data-driven testing with the help of keyword Examples. ... The data sets to be taken into consideration shall be passed below the Examples section one after another separated by | symbol. So, if there are three rows, we shall have three test cases executed from a Single scenario.                 		
+
+Examples:
+|username  |password         |		
+
+|User1     |password1        |		
+
+|User2     |password2        |		
+
+|User3     |password3        |
+
+
+visual studio
+https://www.youtube.com/watch?v=Y7eoHDrw-aU&list=PLhW3qG5bs-L_uGhe43hrzPBgNdHh141r3&index=2
+
+Step 1 : Download and open visual studio code
+   https://code.visualstudio.com/​
+   https://code.visualstudio.com/
+   
+   after installation - my path - C:\Users\vibha.dewangan\AppData\Local\Programs\Microsoft VS Code
+
+Step 2 : Explore GUI
+
+Step 3 : Command Pallete - ctrl + shift + P
+
+Step 4 : Open folder
+
+Step 5 : Create file
+
+Step 6 : Add Extensions
+
+Step 7 : Create and run code
+
+References
+https://code.visualstudio.com/docs#vs...​
+https://code.visualstudio.com/docs/ge...
+
+
+
+groovy
+https://www.youtube.com/watch?v=NRTkZE2Gw7Q&list=PLhW3qG5bs-L8T6v6DgsZo93DgYDmOF9u4&index=2&t=179s
+How to install groovy on Windows OS
+Pre-requisite
+Java should be installed 
+References
+How to install java on windows
+https://www.youtube.com/watch?v=FqpmH...​
+https://groovy.apache.org/download.html​
+http://groovy-lang.org/install.html
+
+*******
+http://groovy-lang.org/semantics.html#_exception_handling
+http://groovy-lang.org/semantics.html#_classic_for_loop
+
+
+python-------------
+https://www.python.org/downloads/windows/
+download python- https://www.python.org/downloads/
+https://www.youtube.com/watch?v=OOytKCeaNBo&list=PLhW3qG5bs-L_IH9bmssFw47zHeLm1gsxo&index=1
+
+indentation spaces python
+To indicate a block of code in Python, you must indent each line of the block by the same whitespace. The two lines of code in the while loop are both indented four spaces. It is required for indicating what block of code a statement belongs t
+
+
+
+
+eclipse------------
+
+eclipse deatil
+shortcut key
+cntrl+shift+f  -  to arrange our code in proper format
+
+set program with proper alignment spaces
+To check your program in Eclipse/Java on spacing and tabs. It is recommended to occasionally use the short keys:
+Windows	  Mac
+To invoke the Auto Formatter	Ctrl+Shift+f	Cmd+Shift+f
+To indent your code	 	 Ctrl+i 	Cmd+i
+
+ how to get multiple cursors in eclipse -  alt + shift + A
+
+
+to download eclipse
+https://www.guru99.com/best-java-ide.html
+
+
+ how to get multiple cursors in eclipse -  alt + shift + A
+
+to set working set https://www.youtube.com/watch?v=m4kr3VOC124&list=PLhW3qG5bs-L8xPrBwDv66cTMlFNeUPdJx&index=3 set- 
+to see only 1 project while wrking - selcting wrking set > clickOnarrow> java> selct that project> give name>selectwrkingset name
+or want to see all projects of eclipse - deselcting wrking set
+
+
+
+maven command: to clean maven
+mvn clean compile
+mvn clean package
+mvn eclipse: clean
+mvn eclipse: eclipse
+
+
+eclipse deatil
+shortcut key
+cntrl+shift+f  -  to arrange our code in proper format
+
+set program with proper alignment spaces
+To check your program in Eclipse/Java on spacing and tabs. It is recommended to occasionally use the short keys:
+Windows	  Mac
+To invoke the Auto Formatter	Ctrl+Shift+f	Cmd+Shift+f
+To indent your code	 	 Ctrl+i 	Cmd+i
+
+ how to get multiple cursors in eclipse -  alt + shift + A
+
+
+
+
+
+//remove this
+/*public boolean c (String projectname) throws Exception{
+
+
+
+to run in docker
+jagadeesh.madhura:spiral_calendar_pad:  10:57 AM
+<include>**/testrunner*.java</include>
+<include>**/testrunner1*.java</include>
+<include>**/testrunner2*.java</include>
+
+u have to add like these
+10:57
+and in each test runner provide different tags
+10:58
+for eg in testrunner give @ptc
+testrunner2 give @viewissuepage
+10:58
+mvn test
+command will run both in parallel
+
+<include>**/@viewissuepage*.java</include>
+<include>**/@ptc*.java</include>
+<include>**/testrunner2*.java</include>
+
+
+did changes on view issue pages all, create issue- page object
+
+//div[@data-testid='Navigation']//*[text() = 'Zephyr']
+
+this works for all 3 env
+2:23
+//div[@data-testid='Navigation']//*[text() = 'Releases']
+
+//div[@data-testid='Navigation']//*[text() = 'Components']
+
+
+ WebElement frame = driver.findElement(By.tagName("iframe"));
+			driver.switchTo().frame(frame);
+			System.out.println("Found Iframe");
+
+bp.waitTillElementIsVisible(clickOnExecuteButton);
+12:47
+add that clonestep
+
+as how to scroll for delete step attachmnt (need to add attahmnt also)- by using scroll in actions -testid-5992
+
+
+Actions act = new Actions(driver);
+			
+act.moveToElement(clickOnStatusDropDown).pause(1500).click()
+ .sendKeys(Keys.ARROW_DOWN).sendKeys(Keys.TAB).sendKeys(Keys.ENTER).perform(); (edited) 
+
+for ui automation with cucumber bvt cases
+https://stash.yourzephyr.com/projects/QA/repos/zfjcloudui/browse
+
+take api bvt, regression cases latestpull clone
+new
+https://github.com/SmartBear/zfj-qacloudui/commits/release/7.0.0
+
+old
+https://stash.yourzephyr.com/projects/QA/repos/zapicloud/commits?until=refs%2Fheads%2Fbugfix%2Frelease%2F3.3 - regression and bvt
+after import project , and all setup, will ask for restart eclipse
+
+old office system
+automation of bvt - zfj bvt started in may
+E: jira server -( cloned here only)
+E: jira server - workspace also same path
+
+cip.GlobalcreateTest(project, Issue, Test);
+
+
+source tree- app - for commit codes
+take pull 
+       then do changes in codes
+       then select unstage file - select page which changes u want to add- then
+stage selected then
+write msg in below then
+commit then 
+push
+
+git---------------
+or if doing through git bash- git command
+git pull
+git status (here will get what changes done by us in that project)
+git add    (- for eg if u want to add changes of this page -src/main/java/com/thed/zephyr/service/impl/ZAPIAPIServiceImpl.java "then command will be"
+               git add src/main/java/com/thed/zephyr/service/impl/ZAPIAPIServiceImpl.java
+git status
+git commit -m "msg"
+git push
+
+git reset -- file name (to revert back changes)
+git restore file name (to restore changes made in file,  this will change back to previous chnge how it was before)
+git restore .  (to all file restore)
+
+
+to add all file chnages use
+git add .  (git add dot to commit all chnages)
+
+
+to take latest pull first time by  
+git clone  ---- copy paste clone url from stash
+git branch  --- check branch  if no branch then  or git branch -r or git branch -a
+go to repository name eg:  cd ZfjCloudui   (here repo name ZfjCloudui)
+git checkout releasename  (eg git checkout release/7.0.0) use tab to auto complete
+
+
+
+my personal
+github account
+username -Vibhadewangan04
+mail- Vibhadewangan04gmail.com
+pswd- same as mail (1st caps)
+
+
+
+git remote add origin https://github.com/Vibhadewangan04/PracticeRepo.git
+git push -u origin master
+
+
+git config --global user.email "Vibhadewangan04@gmail.com"
+   git config --global user.name "Vibhadewangan04"
+
+
+
+
+Excel----------
+
+cntl+shif++  for adding row in excel
+
+
+
+
+
+
+maven--------
+to get all mvn dependency - below url 
+https://mvnrepository.com/
+
+to get testng mvn dependencies- search testng > then 1st search org.testng> then 1st topn latest version
+https://mvnrepository.com/artifact/org.testng/testng/7.4.0
+
+for rest assured - https://mvnrepository.com/artifact/io.rest-assured/rest-assured/4.3.3
+
+
+
+
+
+POSTMAN---------
+
+logged in as vibhadewangan5@gmail.com in postman
+
+
+generate-automated-test-reports-using-postman
+npm install -g newman
+npm install -g newman-reporter-htmlextra
+newman run https://www.getpostman.com/collections/161a23965791d263a3e6 -r htmlextra --reporter-htmlextra-title "Automated test reporting - Postman echo" 
+
+
+
+demo api for practice- https://reqres.in/
+https://jsonpathfinder.com/ - to get json path
+
+for api automation in postman
+for basic authorrization
+Basic cWFAZ2V0emVwaHlyLmNvbTpaZmpDbG91ZCMxMg==
+
+******************to check any api call > right click copy >
+copy as cURL bash-then import in postman by "Paste raw text" option
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://confluence.yourzephyr.com/display/QA/ZAPI+Cloud+Automation - regression automation assignment
+
+https://stash.yourzephyr.com/projects/QA/repos/zfjcloudui/commits - to commit ui cucumber framwrk
+
+check docker
+https://github.com/SeleniumHQ/docker-selenium
+
+https://stash.yourzephyr.com/projects/QA/repos/zfjui/commits?until=refs%2Fheads%2Frelease%2F4.0 - take clone from here
+to check open declaration in eclipse - click control and mouse hover on that
+
+old
+https://stash.yourzephyr.com/projects/QA/repos/zapicloud/commits?until=refs%2Fheads%2Fbugfix%2Frelease%2F3.3 - regression and bvt
+after import project , and all setup, will ask for restart eclipse
+ 
+ cloud  :- 
+ stash
+ assignment- https://defects.yourzephyr.com/secure/RapidBoard.jspa?rapidView=26&projectKey=TA&sprint=184&quickFilter=100
+ 
+ 
+ 
+basic required
+version : version1
+component: 
+
+
+
+Cloud automation:-
+
+regression - rest assured - 
+package com.thed.zephyr.service;  -> ZAPIApiService - for adding boolean
+boolean validateinvalidJobProgress(Response response, String payload);
+
+
+cloud api-
+only public api - we can do automate
+private api - we can't do automate
+
+regression api- https://confluence.yourzephyr.com/display/QA/ZAPI+Cloud+Automation
+
+https://confluence.yourzephyr.com/display/QA/How+to+add+new+BVT+case+into+ZAPICloud+Code
+for api
+
+jar file:-
+https://github.com/zephyrdeveloper/zapi-cloud/blob/master/Samples/production/zapi-cloud/generator/java/target/zfj-cloud-rest-client-1.3-jar-with-dependencies.jar
+
+
+
+
+
+cloud automation - to run zbot- use zbot64
+
+
+D:\zfj_auto\zfjclouduiMine\target -  in 202 if need to pass result through vortex
+
+
+
+
+Could not calculate build plan: Plugin org.apache.maven.plugins:maven-resources-plugin:2.6 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-resources-plugin:jar:2.6
+Plugin org.apache.maven.plugins:maven-resources-plugin:2.6 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-resources-plugin:jar:2.6
+
+for above error - follow below url,  4th comment point - 4
+
+You should check Force Update Snapshots/Releases when updating project with maven.It worked
+https://stackoverflow.com/questions/12533885/could-not-calculate-build-plan-plugin-org-apache-maven-pluginsmaven-resources
+
+
+
+Ready API:-
+Before merge: need to do :-
+Creation of assigned api - Done
+Rename Service name for each steps of test case
+Set end points for each steps  of testcase
+
+
+how to do merge-
+create suite in the required project
+select all rest services and clone them
+then select the test case and clone it.
+
+link the rest services to the cases
+then add global autherization.
+
+
+JMeter--------
+
+how to trigger script and prepare results
+
+create /generate report in jmeter from command line (windows)  from terminal in mac/linux
+
+in windows go to till jmeter bin path then run this command- 
+jmeter.bat -n -t "location of testPlanFile.jmx" -l "location of resultFile.csv" -e -o "location of report folder" 
+
+for eg-   jmeter.bat -n -t "D:\jmeter\AAddTestToCycle-practice.jmx" -l "D:\jmeter\result1.csv" -e -o "D:\jmeter\report1.csv"
+
+
+jmeter.bat -n -t "D:\jmeter\AAddTestToCycle-practice.jmx" -l "D:\jmeter\result3.csv" -e -o D:\jmeter\reports3"
+
+
+create /generate report in jmeter from GUI
+CLick on tools > click on generate HTML report > 
+browse result file of respective .jmx testPlan > eg:D:\jmeter\result1.csv
+browse user.properties- eg: D:\jmeter\New jmeter\Jmeter\apache-jmeter-5.2.1\bin\user.properties
+Browse  empty folder where u want to save report files >  D:\jmeter\reports1
+
+(to generate result file by adding listerner- simple data writer or View result in table browse .csv emptyfile)
+
+
+
+
+https://www.youtube.com/watch?v=ZXFaj0tHK4o
+1. How to refer current time stamp in JMeter
+2. How to get timestamp in required format
+3. How to get shifted time in required format
+we can get this by using - function helper > need choose any function like - time, timeshift, threadNum, UUId
+then we can give our format in which we want to show our date time -   yyyy/MM/dd HH:mm:ss then > click on generate
+it will give syntax:- ${__time(yyyy/MM/dd HH:mm:ss,)}
+
+or we can give this string format- dd-mm-yyyy HH:mm:ss  it generate this syntax- ${__time(dd-mm-yyyy HH:mm:ss
+
+timeshift - we can add the days here or we can minus it from current date
+Amount of seconds/minutes/hours/days to add (e.g. P2D : plus two days) (optional) -	P2D  (P2D means it add plus 2 days)
+MMM-dd-yyyy  if current date is Mar-12-2021
+sytax ${__timeShift(MMM-dd-yyyy,,P2D,,)  then this will be  Mar-14-2021
+
+Amount of seconds/minutes/hours/days to add (e.g. P2D : plus two days) (optional) -	P-2D  (P-2D means it minus 2 days)
+MMM-dd-yyyy  if current date is Mar-12-2021
+syntax  ${__timeShift(MMM-dd-yyyy,,P-2D,,)}  then this will be  Mar-10-2021
+ 
+===========================
+login to jmeter machine
+login as root
+copy jmx files to jmeter bin folder
+delete all csv files inside the csv folder b4 starting of the script
+create screen using command Screen -S testrun
+now inside screen go to jmeter bin path and run below command to start the script
+in windows - jmeter.bat -n -t  <File.jmx> -l <resultFile.csv>
+in mac linux-  sh jmeter.sh -n -t <filename.jmx> -l <reportname.jtl>
+wait for few sec and check for the errors in summary
+if we dont have any error then come out of the screen using keyboard shortcut >>ctrl+A+D
+type screen -ls to check all the screen visible
+get the screen name
+now u are out of the screen to resume to screen again type
+screen -R <screenname>
+now again u check the log summary of errors
+come out of screen and rechck once script is completed
+to check logs during the jmeter run 
+do tail -f <filename.jtl>
+=========================
+after completion of script and during run check below
+aws 
+go to dashboard jmeter and monitor cpu and memory
+datadog:
+go to dd and check for cpu and memory graphs for riak and connect machines
+====================================
+once done copy <filename.jtl> file to windows and check the different graphs like
+response time, aggregate report, aggregate graph, 
+if its fail then check for the response code and in jmeter.log we can check the log error and in datadog also we can check the logs
+=============
+once done prepare report like below and compare with previous releases
+https://smartbear.atlassian.net/wiki/spaces/PD/pages/1816559617/Prod+713-hf2+Performance+Testing+100+Users+-+Latest+Script
+
+
+IN MACBOOK
+press command +  ,   = this key - it will open setting pagein advance enable last check box
+cmd + right click - inspect element
+
+
+selenium---------------
+https://www.selenium.dev/downloads/ - download selenium jar files
+
+
+https://www.gcreddy.com/2021/08/testng-framework-for-selenium.html  - @DataProvider , get data from excel
+
+
+download selenium standalone jar file- http://www.seleniumhq.org/download/
+and browser executable file
+press cntr +f to type - xpath in browser
+
+
+How to create a properties file
+
+Create a new file inside your java project and name it with .properties extension.
+
+example config.properties
+
+*****How to get data from properties file
+
+Step 1 - Create a object of class Properties class
+Properties prop = new Properties();
+
+Step 2 - Create a object of class InputStream
+InputStream input = new FileInputStream("location of properties file");
+
+Step 3 - Load Properties file
+prop.load(input);
+
+Step 4 - Get values from Properties file
+prop.getProperty("browser");
+
+How to set data to properties file
+
+Step 1 - Create a object of class Properties class
+Properties prop = new Properties();
+
+Step 2 - Create a object of class OutputStream
+OutputStream output = new FileOutputStream("location of properties file");
+
+Step 3 - Set values
+prop.setProperty("result", "pass");
+
+Step 4 - Store values in properties file
+prop.store(output, "comments");
+
+
+burp suite---------------
+
+https://www.youtube.com/watch?v=70hvwmwfZeM
+
+
+rest assured--------------------
+
+
+
+Ready api--------------
+https://www.youtube.com/watch?v=nTl9qIyxZOo&list=PLhW3qG5bs-L-Bt9T_bnyflQ0Te4VgFhKF&index=23
+
+https://dzone.com/articles/how-to-achieve-csv-reporting-in-soapui-open-source-1
+
+https://support.smartbear.com/readyapi/docs/soapui/tutorial/index.html
+https://support.smartbear.com/readyapi/docs/soapui/tutorial/your-first-test/basic-concepts.html
+
+APi regression notes
+
+//to get id of execution
+				JSONObject obj = (JSONObject) new JSONObject(response.body().asString()).get("execution");
+				System.out.println("id of execution" + obj.getString("id"));
+				String exeid = (obj.getString("id"));
+				
