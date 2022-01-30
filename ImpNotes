@@ -1,0 +1,21 @@
+1.  desired capabilities class
+
+
+https://www.lambdatest.com/blog/desired-capabilities-in-selenium-testing/
+	
+//	SSL Certificate Error Handling in Chrome
+	
+	DesiredCapabilities handlSSLErr = DesiredCapabilities.chrome ()       
+			handlSSLErr.setCapability (CapabilityType.ACCEPT_SSL_CERTS, true)
+			WebDriver driver = new ChromeDriver (handlSSLErr);
+	
+//	SSL Certificate Error Handling in IE
+	
+	driver.navigate ().to ("javascript:document.getElementById('overridelink').click()");
+	
+	DesiredCapabilities capabilities = new DesiredCapabilities();
+	capabilities.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
+	System.setProperty("webdriver.ie.driver","IEDriverServer.exe");
+	WebDriver driver = new InternetExplorerDriver(capabilities);
+	
+	
