@@ -1,0 +1,123 @@
+How to create first Selenium test
+in Robot Framework
+Eclipse (RED robot editor)
+
+Step 1 : Install robot framework selenium lib
+https://github.com/robotframework/Sel...
+pip install --upgrade robotframework-seleniumlibrary
+
+Step 2 : Eclipse  - Create a robot project
+    Create a test suite
+    Create test case
+
+Step 3 : Add SeleniumLibrary in TestSuite
+
+Step 4 : Create a selenium test case and add steps
+
+
+
+
+topic - Variables
+Variables are elements that are used to store values which can be referred by other elements.
+
+name=Vibha
+
+
+SCALAR 
+${variable_name}
+
+LIST
+@{variable_name}  item1  item2  ….
+
+DICTIONARY
+&{variable_name}  K1=V1 K2=V2 …..
+
+ENVIRONMENT
+
+BUILT-IN
+
+
+
+Topic-  keywords
+What are keywords
+Types of keywords
+How to create keywords
+How to use keywords
+
+LIBRARY       USER
+
+Use
+- Can re-use the steps
+- Manage changes, faster and efficient
+
+
+
+
+
+
+
+
+
+
+
+
+Topics - setup , Teardown
+TestCase SetUp - will run before every TC
+
+TestCase Teardown - will run after every TC
+
+TestSuite Setup  - will run before TS
+
+TestSuite Teardown - will run after TS
+
+
+
+
+
+
+
+Topics - tags
+
+How to set tags from cmd
+
+Step 1 : Goto cmd
+    CD to the location of your project folder
+
+Step 2 : Run command
+    robot -t TestName TestSuite
+
+Step 3 : add flat to set tags
+    --settag=tagname
+
+Step 4 : Run tests with tags
+    --include
+
+Step 5 : Run tests with excluding tags
+    --exclude
+    
+
+
+
+
+
+
+
+
+
+
+ow to run from the command line
+
+http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#all-command-line-options
+
+Step 1: Goto cmd
+   cd to the project folder
+
+Step 2: Run command
+    robot -t TestName TestSuiteName
+
+   single test
+   multiple tests
+   all the tests in the test suite
+   run tests based on tags
+   --include 
+   --exclude
