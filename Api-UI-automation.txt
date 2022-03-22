@@ -1,3 +1,24 @@
+https://automationstepbystep.com/  - for all tseting videos, notes
+
+git repo - https://github.com/Raghav-Pal/ - https://automationstepbystep.com/
+**** take his/ automation step by step git repo url
+open his git > then clone his project > to my git repo by crating new project
+watch his video 
+https://www.youtube.com/watch?v=VxffMPPTSz8&list=PLhW3qG5bs-L_yjwGfRkdySzVKCbV7ciaX&index=16
+
+https://www.youtube.com/watch?v=x2mmy2NL09U&list=PLhW3qG5bs-L8xPrBwDv66cTMlFNeUPdJx&index=15
+
+
+
+
+
+https://stackoverflow.com/questions/9052391/access-restriction-the-constructor-provider-is-not-accessible-due-to-restrict
+
+
+
+search web commands, CAT command
+
+
 
 demo api for practice- https://reqres.in/
 
@@ -43,6 +64,10 @@ total 0
 
 
 Java---------
+
+data provider or data driven framework -
+https://www.youtube.com/watch?v=2ggM0vm4fbg&list=PLhW3qG5bs-L8dDZPP1tpQldU4tzZdPfRv&index=4
+
 https://www.lambdatest.com/blog/desired-capabilities-in-selenium-testing/
 
 
@@ -54,7 +79,6 @@ WebDriver driver = new ChromeDriver (handlSSLErr);
 
 
 
-API http requests status code: https://www.restapitutorial.com/httpstatuscodes.html
 
 
 cucumber------------------
@@ -62,6 +86,14 @@ cucumber------------------
 automation ui in cucumber bdd
 
 https://naveenautomationlabs.com/usage-of-cucumber-options-which-we-use-in-testrunner-file/
+
+@RunWith(Cucumber.class)
+@Cucumber.Options(format = {"json", "<the report file"},
+    features = {"<the feature file>"},
+    glue = {"<package with steps classes"})
+	   strict = try or false, //
+	   dryRun = try or false,  //
+	monochrome = try or false  //true: it means that the console output for the Cucumber test are much more readable and remove any unreadable character. false: then the console output is not as readable as it should be. 
 
 https://zfj-33-bench1.atlassian.net/browse/AP-438-  bdd sceanrio is there
 
@@ -156,6 +188,20 @@ To invoke the Auto Formatter	Ctrl+Shift+f	Cmd+Shift+f
 To indent your code	 	 Ctrl+i 	Cmd+i
 
  how to get multiple cursors in eclipse -  alt + shift + A
+
+
+
+below point If get any common error : https://stackoverflow.com/questions/11235827/eclipse-error-could-not-find-or-load-main-class
+
+Project -> Clean
+Project -> maven > update > force update
+Make sure Project -> Build automatically is active
+Project -> Properties -> Java Build Path -> Libraries: Remove any external libs you have ever added. Don't remove standard libraries like the JRE System Library.
+Try to run your main class now. The "class could not be found / load" error should be gone. Try adding your external libs/jars one after each other.
+
+
+ eclipse  if face any issue while running script in eclipse
+https://www.javamadesoeasy.com/2017/02/solved-access-restriction-type.html
 
 
 to download eclipse
@@ -274,6 +320,10 @@ write msg in below then
 commit then 
 push
 
+************
+do git commit , push and pull for new project from eclipse- very easily watch below video
+https://www.youtube.com/watch?v=VxffMPPTSz8&list=PLhW3qG5bs-L_yjwGfRkdySzVKCbV7ciaX&index=15
+
 git---------------
 or if doing through git bash- git command
 git pull
@@ -298,7 +348,9 @@ git clone  ---- copy paste clone url from stash
 git branch  --- check branch  if no branch then  or git branch -r or git branch -a
 go to repository name eg:  cd ZfjCloudui   (here repo name ZfjCloudui)
 git checkout releasename  (eg git checkout release/7.0.0) use tab to auto complete
-
+git fetch-   is a primary command used to download contents from a remote repository. git fetch is used in conjunction with git remote ,    				git branch , git checkout , and git reset to update a local repository to the state of a remote.
+git stash save "save message" 
+git update, clean - search
 
 
 my personal
@@ -338,7 +390,9 @@ https://mvnrepository.com/artifact/org.testng/testng/7.4.0
 for rest assured - https://mvnrepository.com/artifact/io.rest-assured/rest-assured/4.3.3
 
 
-
+API--------
+API https requests status code: https://www.restapitutorial.com/httpstatuscodes.html
+get and post methods which is more secure
 
 
 POSTMAN---------
@@ -366,6 +420,8 @@ copy as cURL bash-then import in postman by "Paste raw text" option
 
 
 
+https://www.imdb.com/?ref_=login
+vibha@0101
 
 
 
@@ -538,11 +594,75 @@ https://smartbear.atlassian.net/wiki/spaces/PD/pages/1816559617/Prod+713-hf2+Per
 
 
 IN MACBOOK
-press command +  ,   = this key - it will open setting pagein advance enable last check box
+press command +  ,   = this key - it will open setting page in advance enable last check box
 cmd + right click - inspect element
 
 
 selenium---------------
+
+locators -
+ dynamic xpath- what it is, how to handle
+absolute, relative
+
+
+assert and verify
+page factory
+
+selenium grid -  https://www.youtube.com/watch?v=U1jJsV_YKC8 - 
+
+✅ What is Selenium Grid?
+- It is Part of Selenium Suite.
+- It Provides running multiple tests across different browsers, operating systems, and machines in parallel.
+- It has a concept of Hub and Node.
+ Hub :  Where you run the Test.Hub Passes Execution to Nodes
+ Node :  Where Execution Happens
+
+✅Why we need Selenium Grid?
+ 1. Multiple tests across different browsers
+ 2. Parallel Testing
+ 3. Speed and Decrease Execution Time
+
+✅ How to Setup Selenium Grid?
+ 🟢Step 1 - Download the Selenium Server
+ 🟢Step 2 - Run Server as Hub Role
+   java -jar selenium-server-standalone-3.4.0.jar -role hub
+  http://192.168.1.2:4444/grid/console
+  http://localhost:4444/grid/console
+ 🟢Step 3 - Connect Node in Same Network.
+  java -jar selenium-server-standalone-3.141.59.jar -role node -hub http://192.168.1.106:4444/grid/register
+ 🟢Step 4 :  Verify the http://192.168.1.2:4444/grid/console
+
+
+
+
+selenium webdriver ----
+Selenium @FindBy vs driver.findElement()
+
+ syntax1:   @FindBy(LocatorName= "AttributeValue")
+			private WebElement searchBox;
+			
+			 public void searchFor(String text) {
+        searchBox.sendKeys(text);
+        searchBox.submit();
+	
+	@FindBy(id = "q")
+    private WebElement searchBox;
+	
+	@FindBy(name = "q")
+			private WebElement searchBox;
+			
+ syntax2: @FindBy(how = How.NAME, using = "q")
+		private WebElement searchBox;
+	
+	
+
+new selenium 4 feature , all xpath
+
+ https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/
+ 
+ new selenium 4 feature
+https://www.youtube.com/watch?v=Mmp_FiNIYtQ
+
 https://www.selenium.dev/downloads/ - download selenium jar files
 
 
@@ -594,6 +714,16 @@ burp suite---------------
 https://www.youtube.com/watch?v=70hvwmwfZeM
 
 
+
+
+
+
+
+Robot Framework ----
+
+https://www.youtube.com/watch?v=VxffMPPTSz8&list=PLhW3qG5bs-L_yjwGfRkdySzVKCbV7ciaX&index=15
+
+
 rest assured--------------------
 
 
@@ -613,3 +743,278 @@ APi regression notes
 				System.out.println("id of execution" + obj.getString("id"));
 				String exeid = (obj.getString("id"));
 				
+
+
+
+
+
+
+**8 file upload how to do in selenium - by using send keys, using robot framework
+
+
+driver.findElement(By.id("SWFUpload_0")).click();
+Robot r = new Robot();
+r.keyPress(KeyEvent.VK_C);        // C
+r.keyRelease(KeyEvent.VK_C);
+r.keyPress(KeyEvent.VK_COLON);    // : (colon)
+r.keyRelease(KeyEvent.VK_COLON);
+r.keyPress(KeyEvent.VK_SLASH);    // / (slash)
+r.keyRelease(KeyEvent.VK_SLASH);
+// etc. for the whole file path
+
+r.keyPress(KeyEvent.VK_ENTER);    // confirm by pressing Enter in the end
+r.keyRelease(KeyEvent.VK_ENTER);
+
+
+
+
+
+Jenkins----------
+
+ Jenkins used a cron expression, and the different fields are:  cron expression
+https://stackoverflow.com/questions/12472645/how-do-i-schedule-jobs-in-jenkins
+
+
+
+
+
+
+
+
+
+python-------------
+
+py with eclipse - https://www.pydev.org/manual_101_install.html
+
+
+
+
+DataBase , NoSQL--------------
+
+
+NoSQL - MongoDB, Riak (we used in zephyr cloud) ,Redis, RavenDB, Couchbase
+https://phoenixnap.com/kb/nosql-database-list
+https://www.mongodb.com/nosql-explained
+
+
+DB-RDBMS - mysql, sql server/ MSSql, postgres, oracal
+
+SQL------------
+
+Add two strings together: SELECT CONCAT('W3Schools', '.com');
+Add 3 strings together: SELECT CONCAT('SQL', ' is', ' fun!' );
+Add strings together (separate each string with a space character): SELECT CONCAT('SQL', ' ', 'is', ' ', 'fun!' );
+
+
+
+
+Katalon Recorder (Selenium tests generator)--------
+free for 1user with 5 
+
+https://www.katalon.com/download/
+
+
+LambdaTest -----------------------------
+LambdaTest - https://bit.ly/3xLWIEU
+
+References
+Capability Generator - https://www.lambdatest.com/capabiliti...
+Integrations - https://integrations.lambdatest.com/
+
+
+
+
+
+
+
+
+
+ read------------------------------
+
+qa testing - questions/topics
+test closure ,  boundary value,  top bottom
+test strategy vs test approach  and test plan
+
+
+https://www.lambdatest.com/blog/how-to-download-upload-files-using-selenium-with-java/
+https://www.javatpoint.com/wrapper-class-in-java
+data provider , data druven frnwrk watch - https://www.youtube.com/watch?v=2ggM0vm4fbg&list=PLhW3qG5bs-L8dDZPP1tpQldU4tzZdPfRv&index=4
+
+https://www.geeksforgeeks.org/java-program-to-count-the-occurrence-of-each-character-in-a-string-using-hashmap/
+ xpath video watch ,rest assured,  postman automation, cypress
+
+1. xpath , all locatore read care fully
+2. how to copy array to neww array - https://www.javatpoint.com/java-program-to-copy-all-elements-of-one-array-into-another-array
+3. how to define varible in post man,
+check postman automation videos
+4. system testing
+5.componet web service - eg: soap, https
+6. file upload how to do in selenium - by using send keys, using robot framework
+
+Spike testing is a type of performance testing in which an application receives a sudden and extreme increase or decrease in load. The goal of spike testing is to determine the behavior of a software application when it receives extreme variations in traffic.
+
+
+mango db
+read robot framework, python video, then watch basic interview question on both
+
+For coding programming practice geeksforgeeks
+
+load, stress, soak testin
+pps check
+read load, stress, soak testin
+https://www.guru99.com/performance-vs-load-vs-stress-testing.html
+pps check
+how to decide the bench mark for api testing
+If CPU gets hight how to debug, bcoz of which cpu gets high
+
+https://automationrhapsody.com/performance-load-stress-and-soak-testing/
+
+
+open eclipse frm here - C:\Users\vibhadew\eclipse\java-2021-12\eclipse
+
+
+jave question
+/java-program-to-count-the-occurrence-of-each-character-in-a-string-using-hashmap/
+https://www.geeksforgeeks.org/java-program-to-count-the-occurrence-of-each-character-in-a-string-using-hashmap/
+
+find duplicate char in string
+find duplicate element in int
+remove duplicate char from string
+copy element from 1 array to another
+program write average of till 50 inputs
+
+
+
+ https://www.browserstack.com/guide/how-to-find-broken-links-in-selenium - watch video
+
+https://www.youtube.com/watch?v=U1jJsV_YKC8 - selenium grid
+read Nosql, log4j
+
+
+https://www.javatpoint.com/how-to-generate-random-number-in-java
+https://www.youtube.com/watch?v=nTl9qIyxZOo&list=PLhW3qG5bs-L-Bt9T_bnyflQ0Te4VgFhKF&index=23
+
+
+
+click hypher link selenium
+how to u find all link in present web - using a tag and href -  //a[
+excel file reading- selenium
+automation frmwrk- selenium
+benifits of cucuber frmwrk
+security - owasp
+security vulnerability
+sele, performance- reporting handling dynamic data
+readyapi, develop test plan , test approch, derive test estimation, web services, 
+java, sele, groovy , api automation ready api
+search protactors
+Automation in Java Script/Core Java 
+Framework experience
+Selenium / Protractor
+access modifiers in java - private,default,protected,public
+
+https://www.google.com/search?q=monochrome+in+selenium&rlz=1C1GCEU_enIN910IN910&sxsrf=ALeKk01iO8fLbUFLcb0el9-eDjMgKpnUJg%3A1618223276270&ei=rCB0YPP_D9Lhz7sP15GjgAk&oq=monochrome+in+se&gs_lcp=Cgdnd3Mtd2l6EAMYADICCAAyAggAMgYIABAWEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yCAgAEBYQChAeMgYIABAWEB46BwgAEEcQsAM6BwgAELADEEM6BAgAEEM6BwgAEIcCEBQ6BwgAELEDEEM6BQgAELEDOgcIABBGEP8BUMQiWKVLYNpWaAFwAngAgAGiAogBhw2SAQUwLjEuNpgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz
+
+http://www.differencebetween.net/technology/difference-between-authentication-and-authorization/
+
+https://www.javatpoint.com/java-string-charat
+
+https://sqa.stackexchange.com/questions/37838/write-selenium-result-output-into-excel-sheet
+
+https://mkyong.com/java/how-to-export-data-to-csv-file-java/
+
+Which of the following loadrunner protocols have you worked on?
+https://www.netsuite.com/portal/resource/articles/erp/erp-vs-crm.shtml
+
+https://www.javatpoint.com/difference-between-final-finally-and-finalize
+
+data driven read/write excel in selenium
+https://www.codejava.net/coding/how-to-write-excel-files-in-java-using-apache-poi
+
+https://www.techbeamers.com/selenium-webdriver-add-a-book-to-the-cart/
+
+https://stackoverflow.com/questions/51719848/find-the-smallest-positive-integer-that-does-not-occur-in-a-given-sequence
+
+https://www.javatpoint.com/java-string-faqs read
+https://www.javatpoint.com/java-program-to-reverse-each-word-in-string#:~:text=By%20using%20reverse()%20method,()%20or%20charAt()%20method.
+
+
+
+watch video how to print patterns in java
+
+python- https://www.youtube.com/watch?v=gfDE2a7MKjA 
+https://codewithharry.com/videos/python-tutorial-easy-for-beginners - below all notes
+https://www.w3schools.com/python/python_howto_reverse_string.asp
+
+QA Engineer requirement 3-5 years of in-depth QA Engineering experience in enterprise applications in ERP/ SCM/ CRP domains
+automation tools including bots
+3 to 5 years of experience in Process automation
+ SQL or Oracle database Shell Scripts, JSON and XML
+
+https://brainhub.eu/blog/cloud-architecture-saas-faas-xaas/
+Analyze the CPU Utilization, Memory usage, Network usage, Garbage Collection and DB Parameters and DB Reports to verify the performance of the applications.
+srting how get length of stirn
+how to split
+lowercase, upper case
+
+Skills: 70% Automation Testing, Manual Testing, Selenium WebDriver,SOAP UI, WORKFLOW, TESTNG,SQL,VBSCRIPT, PYTHON SCRIPT,API AUTOMATION,QTP,
+
+window handle-https://www.browserstack.com/guide/handle-multiple-windows-in-selenium
+
+https://www.guru99.com/implicit-explicit-waits-selenium.html
+https://www.tutorialspoint.com/selenium/selenium_synchronization.htm
+data driven- keyword-hybrid-frameworks- below
+https://www.guru99.com/all-about-excel-in-selenium-poi-jxl.html
+https://www.guru99.com/creating-keyword-hybrid-frameworks-with-selenium.html#:~:text=We%20can%20achieve%20Data%2Ddriven,driven%20and%20data%20driven%20framework.
+
+
+java-https://www.javatpoint.com/difference-between-abstract-class-and-interface     						         https://www.w3schools.com/java/java_data_types.asp  
+ array https://www.tutorialspoint.com/Java-program-to-find-the-2nd-largest-number-in-an-array
+ https://www.javatpoint.com/java-string
+
+,  https://www.w3schools.com/sql/sql_join_self.asp
+python - https://www.guru99.com/python-tutorials.html, https://docs.python.org/3/py-modindex.html
+xray tool how it wrk- test management tool like - jira,zephyr, xray
+sql query- https://www.w3schools.com/sql/sql_join_self.asp
+
+
+
+private drive link, project file
+
+https://www.toolsqa.com/selenium-webdriver/download-selenium-webdriver/
+https://www.javatpoint.com/how-to-create-xml-file-in-testng
+
+https://stackoverflow.com/questions/30112390/jni-error-has-occurred-please-check-your-installation
+
+
+Skills:  for mindtree / latha HR
+•            Manual testing techniques
+•            Cucumber automation
+•            Javascript & SQL
+•            Shell / Python scripting
+•            Performance automation tools like JMeter or Load runner
+•            Jenkins / Continuous Integration
+•            Linux
+
+jmeter - look and feel
+whilte background . bold headding - metal 
+black defaulk-  dracula
+
+read- for interview
+scripting language -python, java script js, groovy script , ruby
+python- https://www.w3schools.com/python/trypython.asp?filename=demo_json
+AWS, cloud base, azure
+other test management tool like - jira,zephyr, xray
+
+
+What is Context interface in Java?
+The Context interface provides methods for retrieving and updating this environment. The environment is inherited from the parent context as context methods proceed from one context to the next. ... Any object with a reference to a context may examine that context's environment.
+
+
+What is throughput in Jmeter?
+Throughput is the number of units of work that can be handled per unit of time; for instance, number of requests per second (RPS) , calls per day, hits per second, reports per year, etc.
+
+https://www.javatpoint.com/how-to-sort-an-array-in-java
+https://tutorialspoint.dev/data-structure/arrays/find-union-and-intersection-of-two-unsorted-arrays
+
+
+
