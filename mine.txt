@@ -8,60 +8,114 @@ use in november floater for festival and 1-2 sick leave
 use all casual/sick , floater till november december leave bcoz it will not get carry forward to next year
  
  dont use paid time off *****
-
  
+ in efi - check adp portal for form 16 by april 1st week, if not available ask
+ ask below to adithya
+ Can you please let me know for yr 2021-22 form16 When it will be available in ADP portal
  
 
- 
- while changing job , new job , job change , looking for change
-
-netcore online test Vibha0404 pswd - https://assessment.hackerearth.com/challenges/test/netcore-india-test-draft-3/start-test/
-
-https://talent500.co/onboarding/resume?_hsenc=p2ANqtz-_m-hUxfV-FWBl38rWfTEYej6doLK3LhYKAOi_-OQbKrwu7Wocp2dk2wjJpv6RrgXv2sZqgUeEVe-ZA1nQ5dAclBkqks0CwE_3roFv_8TY3sBCOHAE&_hsmi=90800119&redirect_url=%2Fappliedjobs%2Fd8cd9b66-85dd-4461-be9c-1e55089e5b7b&utm_campaign=naukri_job_posting&utm_medium=email&utm_source=naukri_job_posting
-same above pswd
-
-
-I have E2E testing experience with STLC process using Manual Testing, Automation Testing, API Testing,Jenkins, JMeter, Postman, selenium, java ,TestNG, burp suite, cucumber, Ready API, SQL
-
-
-dwonload all last year till date payslip, offer letter etc in pd few EFI office automation notes
-
-add latest resume in naukri , add clg certificate like appriciation got from Raghu sir in kavendri ,  add qspider certifiate soft copy also
-ECTC: 12+ lakhs  then 14+   (once feb month get start update in naukri, resume Total Experience: 4.7
-cover letter
-
+PANcard number:BPRPD1500D
 
 Hi
 
-I am very happy to apply for the job in your company and interested in this job position (manual+automation testing) and willing to learn new technologies.
-Please find the updated resume attachment with below details:
+I am very happy to apply for the job in your company and interested in Manual+Automation QA job position in the software industry and willing to learn new technologies.
+Please find the updated resume attachment with below details: 
 
-Total Experience: 4.6 
+Name: Vibha Dewangan
+Contact number : 8959288892
+Total Experience: 4.8+
 Relevant Experience in Automation Testing: 3+
-Relevant Experience in Jmeter,Postman,Ready API, API Testing: 3.1
-Rel Exp in Selenium,Java,TestNG, burp suite, cucumber,SQL: 3+
-Current Company : EFI (Electronic for Imaging)
+Relevant Experience in Jmeter,Postman,Ready API, API Testing: 3+
+Rel Exp in RestAssured, burp suite,Selenium,Java,TestNG,cucumber,SQL: 1-3+
+Current Company : EFI (Electronics for Imaging) 
 Current Job position : (QA Engineer) Permanent
-CTC: 7.97 lakhs (PATC-8lakhs including variable pay, bonus, Gratuity)
-ECTC: 11+ lakhs
-Official Notice Period : 60Days
-Office Location: Bangalore
-Current Location: Bangalore
-Expected Location: Raipur or Hyderabaad wfh till covid ends(next 2-4 yrs) or Any city with permanent wfh
-Interested Job position : Permanent, no contract or 3rd party payroll
+CTC: 7.97 lakhs (PATC-9lakhs including bonus, Gratuity + current year hike will include)
+ECTC: 12-13+ lakhs (negotiable)
+Official Notice Period : 60Days (negotiable)
+Offer in hand : one offer with 11+ lakh (joining bonus)
+Office/Current Location: Bangalore
+Expected Location: Raipur,Bhilai,Durg or wfh till covid ends as 4th wave attack on may-june(next 2-4 yrs) or Any city with permanent/wfh or hybrid model with monthly/yearly bases, as I have health concerns after covid and my treatment is going on.
+Proper Wi-Fi connection at home Y/N: Yes I have proper WIFI connection at home
+Interested Job position : Full Time Permanent with 5working Day, day shift timing Max till 8pm, no contract or 3rd party payroll 
+Interview Availability : Any time between 10-5pm
+
+If my profile is suitable Please let me know the next steps.
 
 Thanks & Regards
 Vibha
 
 
-*****
-read- wipro recording, screeshot taken at 29th evening
+*****take screenshot of each interview-  read recentlty taken online test ss
 
-Expected Location: Raipur, Hyderabaad or Any city with WFH atleast till covid ends(next 2-4 yrs) or permanent wfh 
-******please more focus on permanent wfh -- search value lab or permanent work from home in serach box and apply
+arcserve-remote, got mails, intv done
+altimetrik - remote- call to schedule intvr when put paper
+Nishant hr - pwfh, got mail- nishant khandelwal i replied, waiting for intv
+optim hire - pwfh - call to schedule intvr when put paper
+ipetronik  - he told - he will check wfh? - will get mail if profile sorlist
+
+23wed-5pm-pwfh- Technical Interview-
+19marc-online- Re: Sr. Manual QA Engineer at WalletHub - done, only manual 2nd assignment didnt get
+19mar - online -1hr-Invitation for Gainsight | QA (Hybrid) Code Test | done 4 program was bkwas
+16mar-4:30pm- otsi - ask about which kind of work i will get and  wfh and see how the panel is?
+16-1pm-dxc - final round done-good, service base. health care, manufacture, etc. Arun delivery manager he took
+11mar-fri-3pm -xooa-3rd/final round,Final Level Interview - Amit took(Amit Jain)
+11mar-fri-2pm wallmart got mail, cancelled no wfh
+10mar- thur-imp-lwfh - 4pm- Senior SDET big basket-done, good
+9th-wed-5:45pm-  indium- 2nd/final round , service base- ask project-good
+9th-wed-3pm  - DXC - Technical - Selenium java , good
+9th-wed-4:30 pm- otsi - rescheduled to 11th
+8th - 4pm -  R19741_Sr. Quality Test Engineer_Tech, good
+7th - Technical assessment from Mitratech, online do asap. done
+5th - 1pm - IQVIA Interview - rescheduled
+4th - 12:30 - xooa-2nd round-  Second Level Interview for QA Engineer , new startup-need to work on robotFramework/cypress,
+4th - 11am - arcserve -2nd round. dont join this company- 1st,2nd not good asked abou mostly h/w like waht is OS,LAN,Linux how to install operatte
+3rd - thurs - 4pm -Interview for QA- telocom domain - Xooa- good
+3rd - thur- 12:45-pwfh-indium- Ram kumar-RE: L1- Teams interview -good
+2march -3pm - otsi/hpe -got mail, domain- good but asked quetion related my domain and need to disscus about submit original certificate for 3 months and lwfh. HR, Recru are rude
+2march -4pm-- imp-pwfh -ServiceMax , ok
+1 -march - Job | We are Hiring for Great QA Enginee online- done, cucumber assignmnt,
+1 -Welcome Vibha, let’s get you hire- online do it- veru bkwas 57 questions-not done
+26-28 - Mitratech application follow up- online do it -done this same bkwas wala 30-40 mcq
+26-4- Test Invitation from Sapiens-online do asap-done good
+26tfeb - 11am-imp- pwfh- TEQFOCUS,need to check mail f2f it seems, call her
+25th - 4pm ARCSERVE- domain check bcoz its related to Backup/os/dbs, mostky i guess will face diff challenge to work, no to join
+25th - 2:30 capgemini -2nd round-done good
+24feb - 4-4:30pm - linkdlin-Janete Rodrigues, capgemini-ignore
+23rd - Test Invitation from Sapiens - do asap before eod, done
+23rd - 4pm - Infosys 2nd round- got mail done-good
+23feb - 12pm- microfocus -
+23feb - 11am- HCL - TP1_ got mail. done
+17-20 - PropertyGuru Group- aayushi- do online assesment 3hrs, done
+19-20 - Automation Test link- done
+19th - 4pm- -Publicis Sapient-lwfh- sudhakshna , got mail, good
+19th- 10:30am  - ITC- done,ok
+19-20 - Nagarro QA automation assessment - do 2nd online-
+18 - Nagarro selection process update- do online- done
+18th - 12:30 pm -  IBM done ok,
+18 fri- 3:30pm , Vibha Dewangan and Jay Shah done, it good
+17th - IBM Corporation - online done
+14 mon- 4pm,  delloite, need to get mail, it was fine
+15th -12pm- Leadsquared, product,  it was good ,not selectd
+12 sat -2pm infosys, it was very good
+12-14 - capgemini online assesment do it,done fine, done , got call- selected for next round
 
 
-24th-*** future bridge -did online assesment, in inter view ask at last about company and what all challenges he face in current
+need to get call from infosys, capgemini
+
+
+infosys - got call will get call letter by 14th march, joining  date 19th may check
+10.5 ,  ctc, 10% variable,  1 lakh -bonus
+check all above in offer letter all below point alsocheck, then ask variable pay money when will get quaterly, yealy or how 
+
+ask in cognizant about role- associate 
+- Projects  and also about remote work how long and also abour below c point - wrk time can change also?
+c) The Company may also require you to work on a shift basis. The shifts may be scheduled
+across 24 hours a day, 7 days a week and 365 days a year. Shift timing may change from time to
+time as per any Company policy, and will be communicated to you in advance.
+https://onecognizantexternal.cognizant.com/?type=1
+
+jan-netcore
+24th-*** future bridge -did online assesment, not selected
 19th- 11:30 mail TCS done
 19th - Vertafore - Assessment Invitation , Hemanth- take by 19th wed evng.  done online written
 19th - Cognizant Job Opportunity for Automation Testing 2022, vignesh mail check for timing
@@ -72,38 +126,83 @@ do by 23th sunday- Job Opportunity || Analyst-Quality , naukri -futurebridge.com
 25-**tue- today - 6pm byjus - 2nd round do it well imp done, will get 3rd round call
 27 - 11am -check mail Cognizant Job Opportunity for Automation Testing – Full Time Employment. if get reply
 29/30 -online asign, done- Capgemini India Invitation for QET_Java_Selenium assessment, online do it asap
-29 sat - 11 am capgemini, "Capgemini Interview'
+29 sat - 11 am capgemini, "Capgemini Interview', done got selected for next round
 29 Mitratech application follow up- Software Engineer in Test - III | Invitation to begin, do online assihmnet,done already
-29 sat 6pm - wipro,got mail.done
-31 mon**- time - imp -Magnaquest Technologies hyderbadd pwfh or longterm, check new mail
+29 sat 6pm - wipro,got mail.done it was fine
+31 ******4pm- imp -Magnaquest Technologies hyderbadd pwfh or longterm, done it was good, ask/check i will get opportunity to wrk on automatn also right?done
+1st tue -3pm - vertafore -inform him at begining i have another call at sharp4pm-done
+1st tue - 4pm-imp-  byjus 3rd
+3rd thur - 2pm - Cognizant Job Opportunity for Automation Testing- done
+5 sat - done , Invitation for Automation Test Engineer 02 by Adeptia, onine test
+5th sat - 10 am - CGI ,rescheduled, need another mail from them
+8th tue - 4pm Epsilon Is Hiring for, need to get mail'
+9th - imp- 4pm - amadeus ,he told wfh long term done, it was fine
+9th - Leadsquared  to it asap, done , 
+11 - 11am - CGI ,rescheduled, read related api automation, it was good
+11 feb - 2pm  Adeptia-product, more salary i should tell, it was ok
+11 - 4pm - Wingify-product , imp, pwfh, read jd topics, it was fine. not selected
+          -Alepo Technologies. JD – QA Engineer/Senior Engineer."read robotframewrok and intrv question"
 
 
 
-when in notice preriod ****
-update in naukri.com -- Official Notice Period : 60Days (Serving Notice Period -60days remaining with 1 offer letter)
-update same in linkdin -- put status as opentowork, above NP deatils
+Expected Location: Raipur, Hyderabaad or Any city with WFH atleast till covid ends(next 2-4 yrs) or permanent wfh 
+******please more focus on permanent wfh -- search value lab or permanent work from home in serach box and apply
 
-*******
+in inter view ask at last about company and what all challenges he face in current
+
+do
+arrange all study material pdf then do printing
+7798984352- need to get mail
+
+
+read *******
+
+
+
+wfh company
+Adecco India Private Limited
+Collabera India
+Civica Resource Private Limited3.8(20 Reviews)
+infopro learning
+value lab
+Skill On Tap
+nagarro
+Maxsource Technologies 
+Digital Marketing Executive (SEO/SMM)
+ASK EHS engineering and consultants pvt ltd3.4(72 Reviews)
+
+*********************8
+after getting offer letter dont do resign on same day, check the offer letter carefully
+no bond should be there
+check wfh option atleast for next 2-4 yr ask or permanent is best
+np should be within 60 days not more then that , check below points also
 
 ********check before join new company new job, priority
 full time employee not contract or temporary
 Product base company 1st later service
+no bond should be
 check company domain eg: banking, insaurance, printing - check in linkedin > open prfile > exprience tab > click on + > type   Company name > and see what domain type it is > then search that domain in google
+wrk timing 9hr?  (10-7) day shift,  9-5 or 10-6 after 7 i cant. sometime it is fine
 location - hyderabaad or cg or near cg 
 domain-  good domain
 np - should be 30-60 days not 90days
 and leave policy (5 wrking days) and how about workload
-wrk timing 9hr?  (10-7) including lunch?
- 9-5 or 10-6 after 7 i cant. sometime it is fine
+
  check about leave policy and other policy in offer letter
  
  
+ 
+ *******
+ when in notice preriod ****
+update in naukri.com -- Official Notice Period : 60Days (Serving Notice Period -60days remaining with 1 offer letter)
+update same in linkdin -- put status as opentowork, above NP deatils
  
  *****after putting paper / resignation in current company
  ***on last day --
  copy paste all note pad files to pd
  add notes file to local git repo > open gir url add file > open art project path > add only notes folder/files
  write mail - sign off mail - check <Suresh.Chandrashekar@efi.com>  Signing Off!!  , add cc- to my personal mail id
+ Last working day at EFI ! - check this mail
  check in mobile memo also
 
 
@@ -114,8 +213,22 @@ wfh bcoz of covid and pendemic if permanent wf that is very good
  follow agile methodology or scrum/ waterfall 
 
 
+ while changing job , new job , job change , looking for change
 
- 
+netcore online test Vibha0404 pswd - https://assessment.hackerearth.com/challenges/test/netcore-india-test-draft-3/start-test/
+
+https://talent500.co/onboarding/resume?_hsenc=p2ANqtz-_m-hUxfV-FWBl38rWfTEYej6doLK3LhYKAOi_-OQbKrwu7Wocp2dk2wjJpv6RrgXv2sZqgUeEVe-ZA1nQ5dAclBkqks0CwE_3roFv_8TY3sBCOHAE&_hsmi=90800119&redirect_url=%2Fappliedjobs%2Fd8cd9b66-85dd-4461-be9c-1e55089e5b7b&utm_campaign=naukri_job_posting&utm_medium=email&utm_source=naukri_job_posting
+same above pswd
+
+
+I have E2E testing experience with STLC process using Manual Testing, Automation Testing, API Testing,Jenkins, JMeter, Postman, selenium, java ,TestNG,RestAssured, burp suite, cucumber, Ready API, SQL
+
+
+dwonload all last year till date payslip, offer letter etc in pd few EFI office automation notes
+
+add latest resume in naukri , add clg certificate like appriciation got from Raghu sir in kavendri ,  add qspider certifiate soft copy also
+ECTC: 12+ lakhs  then 14+   (once feb month get start update in naukri, resume Total Experience: 4.7
+cover letter
  
  https://ibegin.tcs.com/iBegin/register 
  pswd - Vibha@0108
@@ -123,6 +236,9 @@ wfh bcoz of covid and pendemic if permanent wf that is very good
  
  
  
+ IBM registration
+ id-04@
+pswd- Rk  full name +sc+old 1st caps
  
  linkedln url - https://www.linkedin.com/in/vibha-dewangan-78896212b/
  
@@ -237,6 +353,14 @@ https://efi.edubrite.com/oltpublish/site/coursePlayer.do?dispatch=show&courseSes
 https://efi.edubrite.com/oltpublish/site/homeNew.do
 https://efi.edubrite.com/oltpublish/site/coursePlayer.do?dispatch=show&id=7a5f739d-1668-11e8-a6ac-0cc47a352510&courseSessionId=f167f6f1-1668-11e8-a6ac-0cc47a352510&fl=true
 
+
+
+
+
+https://www.katalon.com/
+userid- 04@ gmail
+pswd- name 1st caps+sc+old
+
 outlook id- Vibha.Dewangan@efi.com
 efi outlook pswd
 Rk +sc+ old
@@ -285,8 +409,6 @@ User Name	:	22968
 Password	:	84c656cd6ae3, set new- new efi outlook pswd new pswd 09
 
 
-https://www.javatpoint.com/how-to-generate-random-number-in-java
-https://www.youtube.com/watch?v=nTl9qIyxZOo&list=PLhW3qG5bs-L-Bt9T_bnyflQ0Te4VgFhKF&index=23
 
 check in mail also
 https://www.concursolutions.com/Expense/Client/default.asp
@@ -321,66 +443,22 @@ winzip file to extract
 
 
 
--------------------------
-taxback
-test closure ,  boundary value,  top bottom
-test strategy vs test approach  and test plan
-
-dynamic xpath
-
-get and post methos which is more secure
-assert and verify
-page factory
-
-click hypher link selenium
-how to u find all link in present web
-code to capture screenshot,
-excel file reading- selenium
-automation frmwrk- selenium
-benifits of cucuber frmwrk
-security - owasp
-security vulnerability
-sele, performance- reporting handling dynamic data
-interstadning in new learn
-wfh
-product based
-6 product
-payroll
-tax return
-money transfer
 
 
 
 
 
-offical np- 30days
-in call ask wfh option and is that mnc,product base company
-and permanent no contract 3rd party right?
 
-
-
-value labs- 15th 4:30pm
-readyapi, develop test plan , test approch, derive test estimation, web services, 
-java, sele, groovy , api automation ready api
 
 
 resignation
 to  naveen
 cc hr, jaga, my personal gmail id
-
 ask HR pooja in zephyr cm 
 experience letter, relieving letter,  hike letter
 
 
-
-QA Automation engineer- Resume
-
-
-
-
 voter id card - updating address
-voter id card - updating address
-
 12 july 2021  check on 19th
 Track status 
 https://www.nvsp.in/Forms/TrackStatus
@@ -444,25 +522,8 @@ https://eportal.incometax.gov.in/iec/foservices/#/login/forgotPassword/1
 id-  pan id number
 pswd-  name+sc+old  1st name caps
 
-income tax
-in LTA - travel thing we can metioned
-new LTC
 
 
-
-looking for chnage bcoz in my current company is h/w+ s/w . and most of employ they use to go office after covid also
-so as of now i m lookng for a company which can give me wfh atleast till pandemic adn sofware product company
-
-
-
-
-
-
-All company
-efi - wfh till lockdown
-continental automotive - same till situation get fine 2-3 month
-value labs - wfh 1 year
-Tax back - wfh till situationn get normal -4-8 months
 
 
 svn - repository  alternative git, to take pull/push commit
@@ -480,10 +541,6 @@ https://docs.google.com/document/d/12i8BQvYVxqGAOkKgSlvbOmPFIAHVDHI2kOnQ-KMbdzo/
 *********
 commit all practice project, office prjct,  automations project in personal git repository 
 
-search protactors
-Automation in Java Script/Core Java 
-Framework experience
-Selenium / Protractor
 
 
 https://www.justdial.com/Raipur-Chhattisgarh/Aadhaar-Card-Agents-in-Phool-Chowk/nct-11379031
@@ -493,7 +550,9 @@ https://www.google.com/search?q=government+choice+senter+in+raipur+chhattisgarh&
 
 10th: 79.33%  (2010)
 12th: 71.4%	  (2012)
-BE  : 71.56% (Engineering-2016)
+BE  : 71.56% (Engineering-2016) passout at month sep bcz
+course : nov-jun done testing course
+
 PG 	: NA
 
 address
@@ -513,8 +572,8 @@ pg2  - laxmi narshima ladies pg
 EFI office
 Address: Block I, No 24, Kalyani Platina, Phase 2, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066
 
-
-
+electricity helpline of karnataka
+helpline.bescom@gmail.com
 
 
 di
@@ -523,84 +582,6 @@ https://www.livechat.com/typing-speed-test/#/
 
 same as microsoftoffce free with wps  kingsoft office
 https://www.wps.com/
-
-read check ************
-
-access modifiers in java
-
-https://www.google.com/search?q=monochrome+in+selenium&rlz=1C1GCEU_enIN910IN910&sxsrf=ALeKk01iO8fLbUFLcb0el9-eDjMgKpnUJg%3A1618223276270&ei=rCB0YPP_D9Lhz7sP15GjgAk&oq=monochrome+in+se&gs_lcp=Cgdnd3Mtd2l6EAMYADICCAAyAggAMgYIABAWEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yCAgAEBYQChAeMgYIABAWEB46BwgAEEcQsAM6BwgAELADEEM6BAgAEEM6BwgAEIcCEBQ6BwgAELEDEEM6BQgAELEDOgcIABBGEP8BUMQiWKVLYNpWaAFwAngAgAGiAogBhw2SAQUwLjEuNpgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz
-
-http://www.differencebetween.net/technology/difference-between-authentication-and-authorization/
-
-https://www.javatpoint.com/java-string-charat
-
-https://sqa.stackexchange.com/questions/37838/write-selenium-result-output-into-excel-sheet
-
-https://mkyong.com/java/how-to-export-data-to-csv-file-java/
-
-Which of the following loadrunner protocols have you worked on?
-https://www.netsuite.com/portal/resource/articles/erp/erp-vs-crm.shtml
-
-https://www.javatpoint.com/difference-between-final-finally-and-finalize
-
-data driven read/write excel in selenium
-https://www.codejava.net/coding/how-to-write-excel-files-in-java-using-apache-poi
-
-https://www.techbeamers.com/selenium-webdriver-add-a-book-to-the-cart/
-
-https://stackoverflow.com/questions/51719848/find-the-smallest-positive-integer-that-does-not-occur-in-a-given-sequence
-
-https://www.javatpoint.com/java-string-faqs read
-https://www.javatpoint.com/java-program-to-reverse-each-word-in-string#:~:text=By%20using%20reverse()%20method,()%20or%20charAt()%20method.
-string s1 = "   my  my  name is vibha  vibha  ";
-
-stringbuilder sb = new stringbuilder(s1);
-
-sb.reverse();
-
-system.out.print(new);
-
-revrse word to word
-
-vibha is name my
-
-testcase > ETA > should be correct
-
-verify when i/user of google map start journey and give the destination then ETA should be correct
-for source to destination place
-
-diff places
-diff mobile/laptop
-
-
- WebElement SignInElement =  driver.findElement(By.id("signInSubmit"));
- 
- WebElement
-
-
-
-webElement more = xapth((//a[@class='makeFlex hrtlCenter column'])[9]);
-string expectedText = "Activies & Tours, Trip Ideas, GiftCards, My Biz ...";
-   systom.out.println(more.click().getText);
-string actualText = more.click().getText;
-assert.assertEquals(expectedText, actualText);
-
-------------------------------------------
-
-
-
-watch video how to print patterns in java
-
-python- https://www.youtube.com/watch?v=gfDE2a7MKjA 
-https://codewithharry.com/videos/python-tutorial-easy-for-beginners - below all notes
-https://www.w3schools.com/python/python_howto_reverse_string.asp
-
-ERP/ SCM/ CRP domains
-
-QA Engineer requirement 3-5 years of in-depth QA Engineering experience in enterprise applications in ERP/ SCM/ CRP domains
-automation tools including bots
-3 to 5 years of experience in Process automation
- SQL or Oracle database Shell Scripts, JSON and XML
 
 CGI company
 id- 04@
@@ -615,74 +596,6 @@ json viewer beautify
 https://codebeautify.org/jsonviewer
 
 
-https://brainhub.eu/blog/cloud-architecture-saas-faas-xaas/
-read
-Analyze the CPU Utilization, Memory usage, Network usage, Garbage Collection and DB Parameters and DB Reports to verify the performance of the applications.
-srting how get length of stirn
-how to split
-lowercase, upper case
-
-Skills: 70% Automation Testing, Manual Testing, Selenium WebDriver,SOAP UI, WORKFLOW, TESTNG,SQL,VBSCRIPT, PYTHON SCRIPT,API AUTOMATION,QTP,
-
------------------------
-ask about if i join i have to come to banglore and have to work form office
-or wfh option there
-and wrking day is 5or 6days
-
-leave policy
-salary and hike/bonus
-
-check mail/ naukri msg and reply -, check 2nd march interview on 12:30
---------------------------
-
-
-window handle-https://www.browserstack.com/guide/handle-multiple-windows-in-selenium
-
-read
-maven - in bamboo/jekins
- jemter - check in deep thread
-read robot framework
-
-wait methods
-https://www.guru99.com/implicit-explicit-waits-selenium.html
-https://www.tutorialspoint.com/selenium/selenium_synchronization.htm
-data driven- keyword-hybrid-frameworks- below
-https://www.guru99.com/all-about-excel-in-selenium-poi-jxl.html
-https://www.guru99.com/creating-keyword-hybrid-frameworks-with-selenium.html#:~:text=We%20can%20achieve%20Data%2Ddriven,driven%20and%20data%20driven%20framework.
-
-
-java-https://www.javatpoint.com/difference-between-abstract-class-and-interface     						         https://www.w3schools.com/java/java_data_types.asp  
- array https://www.tutorialspoint.com/Java-program-to-find-the-2nd-largest-number-in-an-array
- https://www.javatpoint.com/java-string
-
-,  https://www.w3schools.com/sql/sql_join_self.asp
-python - https://www.guru99.com/python-tutorials.html, https://docs.python.org/3/py-modindex.html
-xray tool how it wrk- test management tool like - jira,zephyr, xray
-sql query- https://www.w3schools.com/sql/sql_join_self.asp
-
-groovy- 
-
-
-https://www.imdb.com/?ref_=login
-vibha@0101
-
-private drive link, project file
-
-https://www.toolsqa.com/selenium-webdriver/download-selenium-webdriver/
-https://www.javatpoint.com/how-to-create-xml-file-in-testng
-
-https://stackoverflow.com/questions/30112390/jni-error-has-occurred-please-check-your-installation
-
-
-Skills:  for mindtree / latha HR
-•            Manual testing techniques
-•            Cucumber automation
-•            Javascript & SQL
-•            Shell / Python scripting
-•            Performance automation tools like JMeter or Load runner
-•            Jenkins / Continuous Integration
-•            Linux
-
 
 to get 10th/ 12th date
 http://www.cgbsecounter.org/
@@ -690,28 +603,6 @@ http://www.cgbsecounter.org/
 
 1800 419 0072 - axis bank call free
 2,4 sat close
-
-check mail and naukri
-
-make good quality softcopy of certificates
-
-jmeter - look and feel
-whilte background . bold headding - metal 
-black defaulk-  dracula
-
-read- for interview
-scripting language -python, java script js, groovy script , ruby
-python- https://www.w3schools.com/python/trypython.asp?filename=demo_json
-AWS
-other test management tool like - jira,zephyr, xray
-sql
-
-
-
-
-
-
-
 
 
 
@@ -779,8 +670,7 @@ main icon > assested by outbon > agend code (SEBLPI552141) > get
 
 
 
-https://pdf2doc.com/
-online free converter doc to pdf, pdf to any
+
 
 IC - Aparna@kelphr.com
 
@@ -811,6 +701,9 @@ House No.  B2/14,   infront of Jha institute
 Near Alaknanda Tower Deen Dayal Upadhyay Nagar (DD nagar)
 Raipur 492001
 MO  9893167227,  9977514047
+
+
+
 
 
 
@@ -957,18 +850,6 @@ data center:  will use for load balancing and for indexing file
 load balancing: if u have 5 instance and 50nmb data then it will equally distribute to each
 bcoz 1 intanse was having 32 mb max limit
 
-eclipse deatil
-shortcut key
-cntrl+shift+f  -  to arrange our code in proper format
-
-set program with proper alignment spaces
-To check your program in Eclipse/Java on spacing and tabs. It is recommended to occasionally use the short keys:
-Windows	  Mac
-To invoke the Auto Formatter	Ctrl+Shift+f	Cmd+Shift+f
-To indent your code	 	 Ctrl+i 	Cmd+i
-
- how to get multiple cursors in eclipse -  alt + shift + A
-
 
 
 
@@ -982,7 +863,6 @@ voddu- i dont want
 diff language
 中文 (中国)English (UK)français (France)Deutsch (Deutschland)日本語 (日本)한국어 (대한민국)português (Brasil)русский (Россия)español (España)中文 (中国)English (UK) français (France) Deutsch (Deutschland) 日本語 (日本) 한국어 (대한민국) portu (France)Deutsch (Deutschland)日本語 (日本)한국어 (대한민국)português (Brasil)русский (Россия)español 日本語 (日本)한국어  (España)中文 (中国)English (UK) 日本語 (日本)한국어 (대한민국)  português  中文~!@#$%^&*()_+{}|:"<>?[]\;',./` 12345 QQQQ asd हिन्दी
 
-softtware packages available to the novice and experienced game maker that allows them to bring their creations to life without heavy use of coding. These software packages instead perform many functions automatically, using common computer interface actions such as "drag There are many programs for making video games and sofand drop," highlighting and double clicking本語 (日本) 한국어 (대한민국) portu  中文~!@#$%^&*()_+{}|:"<>?[]\;',./` 12345 QQQQ asd हिन्दी
 
 
 softtware packages available 
@@ -1064,9 +944,6 @@ next week ill give demo how to configure and how to run the test cases
 2) install burpsuite also >> gng forward we will do security testing like cross script testing and intercepting the calls
 
 
-2) install burpsuite also >> gng forward we will do security testing like cross script testing and intercepting the calls
-
-
 add this all in new node pad++ file after taking all latest file from another system
 
 
@@ -1080,6 +957,24 @@ save the public private keys to pd
 
 
 
+introduction
+NameFrom where i am belong
+I m vibha dewangan From Raipur chhattishgarh
+I have done engineering and done s/w testing course in qspider later on joined smartbear zephyr technology , the EFI
+and now working in 
+with total yr exp 5.5
+
+to reset screenshot value to 1, start count from 1 again
+
+https://www.ghacks.net/2019/04/27/how-to-reset-screenshots-counter-on-windows-10/
+
+
 reduceimages - reduce - resize - image - pics
 https://www.reduceimages.com/
+
+https://www.ilovepdf.com/
+
+https://pdf2doc.com/
+online free convert / converter doc to pdf, pdf to any
+
 
